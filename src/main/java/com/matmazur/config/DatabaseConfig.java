@@ -60,5 +60,4 @@ public class DatabaseConfig {
         JpaTransactionManager txManager = new JpaTransactionManager(emf);
         return txManager;
     }
-
 }
