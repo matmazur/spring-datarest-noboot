@@ -1,4 +1,4 @@
-package model;
+package com.matmazur.model;
 
 import javax.persistence.*;
 import java.util.Objects;
